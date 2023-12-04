@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-21 Assignment\SeriDesiBinaXml\SeriDesiBinaXml\bin\Debug\SeriDesiBinaXml.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-21 Assignment\SeriDesiBinaXml\SeriDesiBinaXml\bin\Debug\SeriDesiBinaXml.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-21 Assignment\SeriDesiBinaXml\SeriDesiBinaXml\bin\Debug\SeriDesiBinaXml.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-21 Assignment\SeriDesiBinaXml\SeriDesiBinaXml\obj\Debug\SeriDesiBinaXml.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-21 Assignment\SeriDesiBinaXml\SeriDesiBinaXml\obj\Debug\SeriDesiBinaXml.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-21 Assignment\SeriDesiBinaXml\SeriDesiBinaXml\obj\Debug\SeriDesiBinaXml.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-21 Assignment\SeriDesiBinaXml\SeriDesiBinaXml\obj\Debug\SeriDesiBinaXml.pdb
